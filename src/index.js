@@ -29,8 +29,7 @@ app.get('/infointegrantes',(req,res)=>{
 app.get('/productos',(req,res)=>{
     res.send(`
             <h1>Catálogo de productos</h1>
-                <p>Bienvenidos</p>
-    `)
+                <p>Bienvenidos</p>`)
 })
 
 
